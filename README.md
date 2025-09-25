@@ -3,6 +3,7 @@
 **Media Chock Downloader** is a simple and powerful tool that allows you to install custom files directly onto your Nintendo Switch memory card.
 
 ---
+<img width="542" height="626" alt="Screenshot 2025-09-25 193500" src="https://github.com/user-attachments/assets/cf4b83e7-5fd3-49a1-a8f8-027eb22ff157" />
 
 ## Features
 
@@ -15,6 +16,8 @@
 ---
 
 ## How to Use
+
+
 
 1. **Download and run** the Media Chock Downloader application.  
 2. **Choose your memory card** as the destination folder.  
